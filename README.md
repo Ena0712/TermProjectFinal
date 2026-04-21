@@ -2,7 +2,7 @@
 Project Name: Inventory Stock Selling Management for Bakery
 
 
-Project Member: 윤세나 최이나
+Project Member: 22500454 윤세나, 22500738최이나
 
 
   link: https://youtu.be/kHrKCI7Fy4Q
