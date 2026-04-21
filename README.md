@@ -41,3 +41,16 @@ User Guide
 - Quit the Program
   
   Quit the program when you finish your work. All data will be discarded.
+
+
+
+<Screen shots of program execution with explanation>
+  1. Main Menu Screen
+  <img width="439" height="218" alt="image" src="https://github.com/user-attachments/assets/53fd1463-f5c8-45d1-b510-5d9103f46c72" />
+  2. Product registration process
+  <img width="270" height="378" alt="image" src="https://github.com/user-attachments/assets/ce1ba681-704c-4dbf-8ce7-1d764e872035" />
+  3. Product inventory inquiry
+  
+  4. Product sales inquiry
+     
+  5. Product sales statistics
