@@ -47,19 +47,24 @@ User Guide
 <Screen shots of program execution with explanation>
   
   1. Main Menu Screen
+     This is the initial menu screen that appears when the program is executed. It consists of menus 1 to 4 and exit (number 0).
   <img width="439" height="218" alt="image" src="https://github.com/user-attachments/assets/53fd1463-f5c8-45d1-b510-5d9103f46c72" />
   
   2. Products registration process
+     The step is to select the bread/dessert major category first when pressing number 1 and then sub-categories to enter detailed information (name, price, inventory, etc.).
   <img width="270" height="378" alt="image" src="https://github.com/user-attachments/assets/ce1ba681-704c-4dbf-8ce7-1d764e872035" />
   
   3. Products inventory inquiry
+     You can check the details and real-time inventory status of all currently registered products through Menu 2.
   <img width="262" height="274" alt="image" src="https://github.com/user-attachments/assets/f87e95f4-7b6e-4d62-8569-6b317f4bbe3e" />
   
-  4. Registration of Sales of Products
+  4. Record of Products Sales
+     You can record the sales volume of the product through menu 3.
  <img width="234" height="214" alt="image" src="https://github.com/user-attachments/assets/f17ee8fc-9b38-413e-a8ad-7f65e4392063" />
  <img width="245" height="303" alt="image" src="https://github.com/user-attachments/assets/96e1317b-eeb5-414d-a357-3e6fdc190d38" />
      
   5. Sales statistics, Shutdown system
+     The cumulative sales can be checked through menu 4, and the program can be terminated through menu 0.  
  <img width="256" height="228" alt="image" src="https://github.com/user-attachments/assets/176bd2a7-0f6e-470e-b1a3-8b59d6a77387" />
 
 
