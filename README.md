@@ -45,12 +45,21 @@ User Guide
 
 
 <Screen shots of program execution with explanation>
+  
   1. Main Menu Screen
   <img width="439" height="218" alt="image" src="https://github.com/user-attachments/assets/53fd1463-f5c8-45d1-b510-5d9103f46c72" />
-  2. Product registration process
-  <img width="270" height="378" alt="image" src="https://github.com/user-attachments/assets/ce1ba681-704c-4dbf-8ce7-1d764e872035" />
-  3. Product inventory inquiry
   
-  4. Product sales inquiry
+  2. Products registration process
+  <img width="270" height="378" alt="image" src="https://github.com/user-attachments/assets/ce1ba681-704c-4dbf-8ce7-1d764e872035" />
+  
+  3. Products inventory inquiry
+  <img width="262" height="274" alt="image" src="https://github.com/user-attachments/assets/f87e95f4-7b6e-4d62-8569-6b317f4bbe3e" />
+  
+  4. Registration of Sales of Products
+ <img width="234" height="214" alt="image" src="https://github.com/user-attachments/assets/f17ee8fc-9b38-413e-a8ad-7f65e4392063" />
+ <img width="245" height="303" alt="image" src="https://github.com/user-attachments/assets/96e1317b-eeb5-414d-a357-3e6fdc190d38" />
      
-  5. Product sales statistics
+  5. Sales statistics, Shutdown system
+ <img width="256" height="228" alt="image" src="https://github.com/user-attachments/assets/176bd2a7-0f6e-470e-b1a3-8b59d6a77387" />
+
+
